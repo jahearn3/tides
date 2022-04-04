@@ -1,0 +1,5 @@
+Central body: Earth
+
+Name	Mass (kg)	Current semi-major axis (m)
+=======================================================
+Moon	7.342E+22	3.84399E+08

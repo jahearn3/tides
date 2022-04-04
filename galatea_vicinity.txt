@@ -1,0 +1,12 @@
+Central body: Neptune
+
+Name	Mass (kg)	Current semi-major axis (m)
+=======================================================
+Triton	2.139E+22 	3.54759E+08
+Proteus	4.40E+19	1.17646E+08
+Hippocamp	3.0E+16	1.05283E+08
+Larissa	4.20E+18	7.3548E+07
+Galatea	2.12E+18	6.1953E+07
+Despina	2.20E+18	5.2526E+07
+Thalassa	3.5E+17	5.0074E+07
+Naiad	1.90E+17	4.8224E+07
